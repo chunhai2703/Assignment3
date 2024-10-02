@@ -1,0 +1,30 @@
+@media only screen and (max-width: 768px) {
+  .container-3-2 {
+    border-left: none;
+  }
+
+  .container-3-1 {
+    border-bottom: 2px solid #d6c08d;
+  }
+  .container-3-2 {
+    border-bottom: 2px solid #d6c08d;
+  }
+  .container-3-3 {
+    border-bottom: 2px solid #d6c08d;
+  }
+  .timeline-container {
+    width: 94%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+  .certificate {
+    flex-direction: column;
+  }
+  .project-img {
+    width: 200px;
+    height: 300px;
+  }
+  .project-title {
+    font-size: 11px;
+  }
+}

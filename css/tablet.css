@@ -1,0 +1,69 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  nav a {
+    border: none;
+    text-align: start;
+    font-size: 14px;
+  }
+  .certificate {
+    flex-direction: column;
+  }
+  .project-img {
+    width: 250px;
+    height: 300px;
+  }
+  .project-title {
+    font-size: 11px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  nav a {
+    border: none;
+    text-align: start;
+    font-size: 16px;
+  }
+  .name {
+    font-size: 24px;
+  }
+  .job-target-content {
+    font-size: 16px;
+  }
+  .personal-info-content {
+    font-size: 16px;
+  }
+  .personal-info-content-1 {
+    font-size: 16px;
+  }
+  .section-title {
+    font-size: 30px;
+  }
+  .section-time {
+    font-size: 16px;
+  }
+  .section-content-details {
+    font-size: 18px;
+  }
+  .section-icon i {
+    font-size: 40px;
+  }
+  .hobby-symbol {
+    font-size: 28px;
+  }
+  .hobby-symbol i {
+    font-size: 28px;
+  }
+
+  .hobby-title {
+    font-size: 18px;
+  }
+  .skill-list {
+    font-size: 18px;
+  }
+  .skill-level {
+    height: 5px;
+    width: 45px;
+  }
+  .timeline-container {
+    width: 94%;
+  }
+}
